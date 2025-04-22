@@ -12,4 +12,4 @@ All analyses were done in `R`. The code to conduct the analysis is in the `Code`
 
 The code is released under the [CC-BY-4.0](https://opensource.org/licenses/mit-license.php).
 
-
+[![DOI](https://zenodo.org/badge/839924642.svg)](https://doi.org/10.5281/zenodo.15263624)
